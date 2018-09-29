@@ -6,12 +6,12 @@ description: I wish I could do something so cool.
 tags:
   - blah
 ---
-**Bold**
+System.out
 
-_fvfvfv_
+this is changing in real time
 
-![profile](/img/profile.jpg)
-
-
+![profile](/img/tutorials.png)
 
 something cool
+
+![](/img/chemex.jpg)
