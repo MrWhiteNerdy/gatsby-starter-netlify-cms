@@ -3,11 +3,11 @@ import Helmet from 'react-helmet';
 
 import Navbar from './Navbar';
 import Footer from './Footer';
-import './all.sass';
+import './style.scss';
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Rachel Krull | Portfolio" />
+    <Helmet title="Rachel Davis | Portfolio" />
     <Navbar />
     <div>{children}</div>
     <Footer />

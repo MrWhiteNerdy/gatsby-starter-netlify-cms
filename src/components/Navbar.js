@@ -7,7 +7,7 @@ const Navbar = () => (
       <div className="navbar-end">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item">
-            <p className="is-size-4">Rachel Krull</p>
+            <p className="is-size-4">Rachel Davis</p>
           </Link>
         </div>
         <div className="navbar-start">
