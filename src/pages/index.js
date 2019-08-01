@@ -20,7 +20,7 @@ export default class IndexPage extends React.Component {
                 className="content"
                 style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                 key={post.id}>
-                <p>
+                <div>
                   <Link to={post.fields.slug}>
                     <p className="has-text-dark is-inline is-size-6">
                       {post.frontmatter.title}
@@ -28,7 +28,7 @@ export default class IndexPage extends React.Component {
                   </Link>
                   <span> &bull; </span>
                   <small>{post.frontmatter.date}</small>
-                </p>
+                </div>
                 <p>
                   {post.excerpt}
                   <br />
