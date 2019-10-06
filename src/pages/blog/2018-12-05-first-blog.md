@@ -8,6 +8,4 @@ featuredimage: /img/meeting-space.png
 tags:
   - test wow
 ---
-Wow I can't believe this! It's my first blog!
-
-`System.out.println("Hello world");`
+This is a test``
