@@ -5,6 +5,35 @@
   font-family: 'Playfair Display', serif;
 }
 
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
+  grid-template-areas:
+    'navbar'
+    'main'
+    'footer';
+
+  nav {
+    grid-area: navbar;
+  }
+
+  .main {
+    grid-area: main;
+  }
+
+  footer {
+    grid-area: footer;
+  }
+}
+
 .content .taglist {
   list-style: none;
   margin-bottom: 0;
