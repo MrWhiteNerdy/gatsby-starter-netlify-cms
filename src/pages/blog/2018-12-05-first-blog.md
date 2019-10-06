@@ -6,6 +6,8 @@ description: My first ever blog
 featuredpost: false
 featuredimage: /img/meeting-space.png
 tags:
-  - test wow
+  - test
+  - wow
+  - nice
 ---
 This is a test
