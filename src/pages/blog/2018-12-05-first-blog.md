@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: First Blog
-date: 2018-12-05T19:26:27.910Z
-description: My first ever blog
+date: 2019-10-10T18:26:27.910Z
+description: Description
 featuredpost: false
-featuredimage: /img/meeting-space.png
+featuredimage: /img/home-jumbotron.jpg
 tags:
   - test
   - wow
   - nice
 ---
-This is a test
+This is my first blog. It is a cool blog!
