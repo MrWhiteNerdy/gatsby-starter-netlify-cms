@@ -1,7 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
+import { kebabCase } from 'lodash';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 
@@ -11,7 +12,8 @@ export const BlogPostTemplate = ({
   description,
   title,
   image,
-  helmet
+  helmet,
+  tags
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -27,6 +29,18 @@ export const BlogPostTemplate = ({
             <img src={image} alt="main" />
             <p>{description}</p>
             <PostContent content={content} />
+            {tags && tags.length ? (
+              <div style={{ marginTop: '4rem' }}>
+                <h4>Tags</h4>
+                <ul className="taglist">
+                  {tags.map(tag => (
+                    <li key={tag + `tag`}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
           </div>
         </div>
       </div>
@@ -40,7 +54,8 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   image: PropTypes.string,
-  helmet: PropTypes.object
+  helmet: PropTypes.object,
+  tags: PropTypes.array
 };
 
 const BlogPost = ({ data }) => {
@@ -86,6 +101,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        tags
       }
     }
   }
