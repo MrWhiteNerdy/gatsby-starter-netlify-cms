@@ -5,13 +5,14 @@ import { graphql, Link } from 'gatsby';
 import { kebabCase } from 'lodash';
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 export const BlogPostTemplate = ({
   content,
   contentComponent,
   description,
   title,
-  image,
+  featuredimage,
   helmet,
   tags
 }) => {
@@ -26,7 +27,14 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <img src={image} alt="main" />
+            {featuredimage && (
+              <PreviewCompatibleImage
+                imageInfo={{
+                  image: featuredimage,
+                  alt: `featured image thumbnail for post ${title}`
+                }}
+              />
+            )}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -53,7 +61,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  image: PropTypes.string,
+  featuredimage: PropTypes.object,
   helmet: PropTypes.object,
   tags: PropTypes.array
 };
@@ -78,7 +86,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        image={post.frontmatter.image}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
   );
@@ -102,6 +110,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 1024, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
