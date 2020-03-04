@@ -33,49 +33,29 @@ However, very recently things have been changing. I have found some successful t
 TIPS FOR CONSISTENT RESULTS:
 
 1. The importance of daydreams
-
 2. The importance of music
-
 3. Finding your why
-
 4. Processing your day in detail - specifically things that frustrate/anger/challenge you 
-
 5. Movement (not as simple as it may sound)
-
 6. Blocking out your self-consciousness or inner criticism 
-
 7. Freedom to be loose, spontaneous, wild, or even child-like
-
 8. Asking yourself what sort of practice you are needing for each specific day - checking in with yourself on how much energy you can spend or which specific body part you might want to focus on
-
 9. Exhale and go deeper
-
 10. The power of breath-control
-
 11. Walk and talk
-
 12. Sunshine, nature, and singing birds are gifts
-
 13. Find a quiet place to pause and reflect before, during, after a workout
-
 14. Choosing comfort, support, and style for workout gear
-
 15. Keep in interesting with new goals and new apps
-
 16. Find a workout buddy that will hold you responsible and make it more fun
-
 17. Try something new - surprise yourself - sign up for ballet, spin, yoga, horseback riding, ultimate frisbee, beach volley ball, dancing, skiing, hiking, etc! The possibilities are endless. Ask yourself what you have always wanted to try even if it is much simpler than one of these. 
-
 18. Consider getting a furry friend to motivate you off that couch for necessary potty trips. When looking for a puppy workout buddy, think of your long term goals. Do you want to eventually run a marathon? That poodle might be enough to get you off the couch but will it keep your stride when you really begin to train? But what the heck, buy the poodle.
-
 19. (Do this one with caution - could get yourself into trouble if this is the only tip you use) Take pictures of yourself after each workout or to watch yourself change. I say that this one should be implemented with caution because I used to do this regularly and I still have most of the pictures. But it became an obsession to always improve my appearance over how I was feeling internally...so much that it spurred on an eating disorder and constant working out...I do not recommend taking pictures habitually especially if you see yourself following any of these traits. However, it might be a cool idea to share your pic with a workout buddy or a specialist/trainer to help keep you responsible. That post-workout glow is hard to fake (especially if you're anything like me and you have blotchy red spots all over the face).
-
 20. Keep a water-bottle with you everywhere you go. (Did she say everywhere? YES, EVERYWHERE.)
-
 21. Check your socks. (This one is especially important for runners or dancers). Different socks hold different purpose, that goes without saying. But if you feel blisters constantly or feet feel hot/heavy/uncomfortable it could be as simple as finding some quality workout socks specifically geared for the types of activity you're trying to do. There are also special stores that have you test out a pair shoes on a treadmill to get an accurate fitting and best feeling shoe for your runs!
-
-
 
 PERSONAL DAILY WORKOUT JOURNAL:
 
- March 3, 2020: 3 miles on the treadmill at 5.5 mph without stopping.
+Tuesday, March 3, 2020: 3 miles on the treadmill at 5.5 mph without stopping.
+
+Wednesday, March 4, 2020: 3 miles on treadmill at speeds ranging between 3.5-6.5. I pushed myself harder to go faster today which would explain why I had to take a break to walk a bit in between. Still, I am proud of myself for finishing all 3 miles. Today I thought about the importance of finding something to set my sights on or feel empowered by (and this is at times a bit of a struggle especially if you feel you are lacking in purpose or find yourself stuck in a rut that no longer "does the trick") Tomorrow I might try training outside to mix it up and keep my surroundings interesting.
