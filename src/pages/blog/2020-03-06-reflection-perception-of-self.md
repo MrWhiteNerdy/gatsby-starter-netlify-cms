@@ -46,8 +46,6 @@ These self-love exercises are necessary. We do need to love ourselves.
 
 But we don't need to obsess. Like all things, it is a balance and it takes a lifetime (and maybe not even that) to get it right. 
 
-
-
 If all else fails, walk away from the mirror and remind yourself of your best qualities. Do whatever it takes to befriend yourself. Be friends with yourself because that is what it takes to have an integrated mind, and you'll watch yourself do things you didn't think you could or would. You'll find ways you impress yourself. You'll find new ways to enjoy being you and that is a very good and necessary thing to live out our daily life with all its struggles.
 
-And remember, God loves and created you and that is truly significant. Every detail down to every freckle and flaw is not a mistake, but thoughtfully put together by the same creator who made ocean waves and mountains and all the animals who gracefully run in the field...you come from the same heart and maker.
+And remember, the way you feel about yourself at your absolute best is the way God looks at us every day. Every detail down to every freckle and flaw is not a mistake, but thoughtfully put together by the same painter who made ocean waves and mountains and fire...and in some sense you embody these elements in your abilities and personality. You are whoever you want to be, but above all you are completely and overwhelmingly loved.
