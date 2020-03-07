@@ -15,7 +15,7 @@ tags:
   - Bible
   - Bible study
   - goals
-  - tips
+  - study tips
   - personalized
   - CSB
   - realistic goals
