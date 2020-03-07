@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Training for My First Half Marathon
+title: Training for My First 10K
 date: 2020-03-03T20:46:33.010Z
 description: >-
   I decided a great way to keep myself motivated throughout my training is to
@@ -59,3 +59,9 @@ PERSONAL DAILY WORKOUT JOURNAL:
 Tuesday, March 3, 2020: 3 miles on the treadmill at 5.5 mph without stopping.
 
 Wednesday, March 4, 2020: 3 miles on treadmill at speeds ranging between 3.5-6.5. I pushed myself harder to go faster today which would explain why I had to take a break to walk a bit in between. Still, I am proud of myself for finishing all 3 miles. Today I thought about the importance of finding something to set my sights on or feel empowered by (and this is at times a bit of a struggle especially if you feel you are lacking in purpose or find yourself stuck in a rut that no longer "does the trick") Tomorrow I might try training outside to mix it up and keep my surroundings interesting.
+
+Thursday, March 5, 2020: Mostly a break day - just some yoga.
+
+Friday, March 6, 2020: I pushed myself a bit faster today at shorter bursts of energy ranging between 7.5-3.5 for about 1.5 miles.
+
+Saturday, March 7, 2020:
