@@ -4,19 +4,41 @@ title: Reflection & Perception of Self
 date: 2020-03-06T14:58:32.514Z
 description: >-
   Some studies claim that women are often more critical of themselves or take
-  more joy from their reflection than men. Could this be real? And what can we
-  do with this information? Now that we're here, what do we do?
+  more joy from their reflection than men. Could this be real? What can we do
+  with this information? Now that we're here, what do we do?
 featuredimage: /img/20200306_083613.jpg
+tags:
+  - Perception of self
+  - mirror
+  - reflection
+  - image
+  - confidence
+  - self-love
+  - describing yourself
+  - enjoying yourself
+  - integrated mind
+  - women & men
+  - Nelson Atkin's Musuem of Art
+  - painting
+  - memory
 ---
-I had an interesting conversation with my sister yesterday. We were talking about mirrors. And each mirror in her house gives her a different feeling about herself due to lighting and (possibly) the environment. It is interesting how different a slightly different tone or hue of a room can dramatically change how you feel about your own reflection.
+I had an interesting conversation with my sister yesterday. We were talking about mirrors. Each mirror in her house gives her a different feeling about herself due to lighting and (possibly) the environment. It is interesting how a slightly different tone or hue of a room can dramatically change how you feel about your own reflection.
 
 But then she said something that really struck me. 
 
 "What's even real?"
 
-It hit me we may never truly see ourselves the way our loved ones see us, the way our friends see us, coworkers, associates, parents, partners, etc. 
+![](/img/20200103_183512.jpg)
 
-With mirrors and images - which comes closer to the real thing?
+![](/img/20200103_183517.jpg)
+
+This painting can be found at the Nelson Atkin's Museum of Art in Kansas City. I felt it describes this idea in an interesting light. 
+
+As the statement describes, it is representing how a person might paint another person from memory, rather from direct observation.
+
+We may never truly see ourselves the way our loved ones see us, the way our friends see us, coworkers, associates, parents, partners, strangers, etc. 
+
+With mirrors, images, and memory - which comes closer to the real thing?
 
 And _even with those things,_ how much can we truly rely on mirrors and images being accurate descriptions of us? When so much of our personalities are wrapped and warped into our mannerisms, style, body language, subtle movements, eye contact, etc. Is a selfie enough to capture the _TRUE_ essence of you and me?
 
