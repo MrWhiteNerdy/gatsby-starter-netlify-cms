@@ -17,6 +17,8 @@ tags:
   - Bible study
   - art
   - love for life
+  - God
+  - scripture
 ---
 The Creation
 
