@@ -56,6 +56,8 @@ TIPS FOR CONSISTENT RESULTS:
 
 PERSONAL DAILY WORKOUT JOURNAL:
 
+(days I do not list are most likely very light activity)
+
 Tuesday, March 3, 2020: 3 miles on the treadmill at 5.5 mph without stopping.
 
 Wednesday, March 4, 2020: 3 miles on treadmill at speeds ranging between 3.5-6.5. I pushed myself harder to go faster today which would explain why I had to take a break to walk a bit in between. Still, I am proud of myself for finishing all 3 miles. Today I thought about the importance of finding something to set my sights on or feel empowered by (and this is at times a bit of a struggle especially if you feel you are lacking in purpose or find yourself stuck in a rut that no longer "does the trick") Tomorrow I might try training outside to mix it up and keep my surroundings interesting.
@@ -64,4 +66,6 @@ Thursday, March 5, 2020: Mostly a break day - just some yoga.
 
 Friday, March 6, 2020: I pushed myself a bit faster today at shorter bursts of energy ranging between 7.5-3.5 for about 1.5 miles.
 
-Saturday, March 7, 2020:
+Monday, March 9, 2020: ran for 4 miles (first mile was at 6.5, and the last 3 were at 5.5)
+
+Tuesday, March 10, 2020:
