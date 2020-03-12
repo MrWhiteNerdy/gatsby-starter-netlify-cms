@@ -68,4 +68,4 @@ Friday, March 6, 2020: I pushed myself a bit faster today at shorter bursts of e
 
 Monday, March 9, 2020: ran for 4 miles (first mile was at 6.5, and the last 3 were at 5.5)
 
-Tuesday, March 10, 2020:
+Wednesday, March 11, 2020: jogged for about 30 minutes in the sunshine :)
