@@ -27,7 +27,7 @@ tags:
   - keep going
   - you got this
 ---
-Each day comes with new challenges, new thoughts, new expectations and limitations. Be kind on yourself when you are not able to follow-through with your own goals or expectations...be kind enough to not expect perfection. Be _SO_ kind to yourself that you allow yourself to fail and then _get back up_. That part is crucial. Do not stay down.
+Each day comes with new challenges, new thoughts, new expectations and limitations. Be kind on yourself when you are not able to follow-through with your own goals or expectations...be kind enough to not expect perfection. Be _so_ _kind_ to yourself that you allow yourself to fail and then _get back up_. That last part is crucial. Do not stay down.
 
 I tell myself these things because I know that I struggle with these bad.
 
