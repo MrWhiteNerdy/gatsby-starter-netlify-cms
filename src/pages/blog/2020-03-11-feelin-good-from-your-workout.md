@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Feelin' Good From Your Workout
+title: 'Feelin'' Good from Exercise & Physical Activity '
 date: 2020-03-11T22:58:02.298Z
 description: >-
   Exercise: 30 mins a day or 150 minutes per week is the recommended amount for
