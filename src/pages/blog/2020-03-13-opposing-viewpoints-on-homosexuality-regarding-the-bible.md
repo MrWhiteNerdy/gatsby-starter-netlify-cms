@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Opposing Viewpoints on Homosexuality Regarding the Bible
 date: 2020-03-13T17:35:05.751Z
 description: >-
-  Here I have gathered some evidence of a couple of different views on
+  Here I have gathered some evidence on a couple of opposing views regarding
   homosexuality, the people behind these beliefs, and a few of my questions
   after reading these articles and investigating further. I will also plainly
   state my beliefs and thoughts. Throughout, I hope to remain respectful.
@@ -16,7 +16,8 @@ tags:
   - God's intent
   - Biblical interpretation
   - groupthink
-  - Reconstruction and the Bible
+  - Reconstruction
+  - racism
   - history
   - opposing viewpoints
   - bias
@@ -46,13 +47,13 @@ When looking at the trends in history, it struck me that during the Reconstructi
 
 <https://news.sbts.edu/2018/12/12/report-discloses-history-slavery-racism-southern-seminary/>
 
-This is a big example of the usage of Biblical support being misrepresented with a large body of Christians supporting its interpretation. Many of us would like to think if we lived in a different period in history, we would have seen with our moral compass today what was misdirected then...I have to wager against this. I think groupthink in any context plays a huge role in our discernment towards what we hear, agree with, acknowledge, or interpret. 
+This is a big example of the usage of Biblical support being misrepresented with a large body of Christians supporting its interpretation. Many of us would like to think if we lived in a different period in history, we would have seen with our moral compass today what was misdirected then...I have to wager against this. I think groupthink* in any context plays a huge role in our discernment towards what we hear, agree with, acknowledge, or interpret. 
 
-It's also important to note that while racism and homosexuality are not the same thing, both African Americans and homosexuals (or anyone belonging to LGBTQ) often feel trapped or enslaved. LGBTQ often do not feel as if there is room for them in the church because they are not given the choice for sinless love in the eyes of many believers. This means they often do not feel as if they can have a relationship with God. 
+It's also important to note that while racism and homosexuality are not the same thing, both African Americans and homosexuals (or anyone belonging to LGBTQ) often feel trapped or enslaved. LGBTQ often do not feel as if there is room for them in the church because they are not given the choice for sinless same-sex love in the eyes of many believers. This means they often do not feel as if they can have a relationship with God when choosing to be themselves. 
 
 Coming from my experience with love, I find this deeply discouraging and sad. I got married at 21-years-old and this is a _huge privilege_ because I felt encouraged, uplifted, and loved by everyone on both sides of our families. Trying to imagine myself in the shoes of a homosexual person...to receive backlash or disapproval from family members who raised me and watched me grow in love would be heartbreaking and in my eyes deeply misdirected. 
 
-Groupthink: Groupthink is a psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. - Wikipedia psychological definition. 
+\*Groupthink: Groupthink is a psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. - Wikipedia psychological definition. 
 
 One great example of groupthink occurs in this video:
 
@@ -65,8 +66,6 @@ There is a room full of people who stand when they hear a beep every few seconds
 The video later shows new strangers being tested in the same experiment while the first woman proceeds to stand with every beep without question until she is now the "sheep-herder" for the newcomers.
 
 I have to wonder how much of our actions, beliefs, values, interpretations, and assumptions are in regard to those around us...especially within a church body that is large enough to fill 2,000 people. 
-
-
 
 Back to the original article I mentioned at the top of this blog, I will go over some of my initial thoughts regarding both sides.
 
