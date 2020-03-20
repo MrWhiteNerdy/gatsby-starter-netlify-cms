@@ -69,3 +69,19 @@ Friday, March 6, 2020: I pushed myself a bit faster today at shorter bursts of e
 Monday, March 9, 2020: ran for 4 miles (first mile was at 6.5, and the last 3 were at 5.5)
 
 Wednesday, March 11, 2020: jogged for about 30 minutes in the sunshine :)
+
+Friday, March 13, 2020: jogged for a full hour
+
+Saturday, March 14, 2020: jogged for a full hour
+
+Sunday, March 15, 2020: break day
+
+Monday, March 16, 2020: jogged for an hour
+
+Tuesday, March 17, 2020: jogged for an hour
+
+Wednesday, March 18, 2020: jogged for only 20 minutes (I need to be more mindful of my period and how it influences my running - I had to stop because I was so sore from the past few days and I had pretty bad cramps)
+
+Thursday, March 19, 2020: break day
+
+Friday, March 20, 2020: indoor cardio workout and yoga
