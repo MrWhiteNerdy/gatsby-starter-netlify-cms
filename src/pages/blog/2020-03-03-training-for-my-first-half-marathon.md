@@ -85,3 +85,7 @@ Wednesday, March 18, 2020: jogged for only 20 minutes (I need to be more mindful
 Thursday, March 19, 2020: break day
 
 Friday, March 20, 2020: indoor cardio workout and yoga
+
+Wednesday, March 25, 2020: went to park with husband and played frisbee for about 25 minutes
+
+Thursday, March 26, 2020: jogged for about 10 minutes and walked for about an hour (while talking on the phone with my sister <3) and played more frisbee with the husband
