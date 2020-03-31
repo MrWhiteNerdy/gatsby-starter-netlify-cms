@@ -8,9 +8,12 @@ description: >-
 featuredimage: /img/20200327_174825.jpg
 tags:
   - COVID-19
+  - coronavirus
   - indoors
   - keeping busy
+  - keep going
   - combat loneliness
+  - change
   - combat boredom
   - pet
   - movies
@@ -19,6 +22,10 @@ tags:
   - productive
   - small changes
   - go easy on yourself
+  - health
+  - happy
+  - mental health
+  - well-being
 ---
 * Consider adopting a pet if you have the means to do so (here in my arms I am holding our new kitten, Peach! She has been a wonderful distraction these past couple of weeks...something to care for, love, play with, laugh with, and a wonderful way to keep my husband and I from getting too irritated with each other from all the time spent in a small space alone! Lol. Later, I'll post a blog about all my purchases for Peach that I highly recommend! ♡)
 * Indulge in a decadent meal - if made for two, try having a romantic date at home including all the works such as candle light and wine in your finest glasses and even dressing up for each other :) 
