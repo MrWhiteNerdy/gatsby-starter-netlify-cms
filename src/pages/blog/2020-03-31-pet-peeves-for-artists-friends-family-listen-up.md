@@ -43,3 +43,9 @@ While this is a valid question as a self-made artist (especially in the beginnin
 * My last pet peeve is simply when people look a bit dumbfounded. If you have an interest in an artist for any reason or would like to become friends with an artist, try asking more questions to get to know them like _any other person_. Artists are known to be somewhat more introverted, (while this is definitely not always the case), so you might need to lead with an interested question before they tell you about themselves. From experience, I don't like to dive into all the things I love to create out of humility or feeling as if I might overwhelm the person. Whoever you are and wherever you come from you might have a background idea of what it means to be an artist or it might feel like unknown/uninteresting territory but to be a good friend or conversationalist, it is always good to ask and receive questions (have a good back-and-forth like playing catch). Don't blankly stare at the person and let the conversation drop if you hear the words, "I'm an artist." This only sends a clear message, "I am not interested" or "I can not relate."
 
 In conclusion, being an artist comes with its own unique set of pet peeves especially when communicating what your occupation looks like to a non-artist. If this is you, don't be discouraged. It takes a specific kind of mind to enjoy being an artist all your life and you should feel proud for being unique in this way. In this way, we as artists do see things a bit differently and that is a gift! Most of these are not intentional offenses or annoyances. I simply list these as gentle guides for someone who wants to improve their conversations with someone they know or love who is an artist.
+
+As always, feel free to comment with your thoughts in regard to anything mentioned whether you are an artist or something else totally different! You are welcome here whoever you are :) 
+
+Thanks for reading.
+
+Love, Rachel.
