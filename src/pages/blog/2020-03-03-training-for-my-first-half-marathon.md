@@ -11,7 +11,6 @@ description: >-
   and to avoid feeling discouraged, lethargic, or bored with the things I'm
   doing. 
 featuredpost: false
-featuredimage: ''
 tags:
   - workout
   - health
