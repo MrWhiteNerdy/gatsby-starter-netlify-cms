@@ -1,9 +1,10 @@
 {
-  "name": "rachel-davis-portfolio",
-  "description": "",
+  "name": "rachelaliviadavis.com",
+  "description": "My wife's personal blog",
   "version": "1.0.0",
   "author": "Joseph Davis",
   "license": "MIT",
+  "repository": "git@github.com:MrWhiteNerdy/rachelaliviadavis.com.git",
   "scripts": {
     "clean": "gatsby clean",
     "start": "npm run develop",
