@@ -6,6 +6,18 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Rachel Davis | Portfolio`,
+        short_name: `Rachel Davis`,
+        start_url: `/`,
+        icon: 'src/img/favicon.ico',
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+      },
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {

@@ -17,6 +17,7 @@
     "bulma": "^0.8.0",
     "gatsby": "^2.17.10",
     "gatsby-image": "^2.2.30",
+    "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-netlify": "^2.1.23",
     "gatsby-plugin-netlify-cms": "^4.1.26",
     "gatsby-plugin-purgecss": "^4.0.1",
