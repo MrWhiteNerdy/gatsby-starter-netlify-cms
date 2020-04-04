@@ -6,22 +6,22 @@ const Navbar = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ''
+      navBarActiveClass: '',
     };
   }
 
   toggleHamburger = () => {
     this.setState(
       {
-        active: !this.state.active
+        active: !this.state.active,
       },
       () => {
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active'
+              navBarActiveClass: 'is-active',
             })
           : this.setState({
-              navBarActiveClass: ''
+              navBarActiveClass: '',
             });
       }
     );
@@ -35,14 +35,17 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation">
         <div className="container">
           <div className="navbar-brand">
-            <Link className="navbar-item is-size-5" to="/">
+            <Link className="navbar-item is-size-5" to="/" role="button">
               Rachel Davis
             </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
-              onClick={() => this.toggleHamburger()}>
+              role="button"
+              tabIndex={0}
+              onClick={() => this.toggleHamburger()}
+              onKeyDown={() => this.toggleHamburger()}>
               <span />
               <span />
               <span />

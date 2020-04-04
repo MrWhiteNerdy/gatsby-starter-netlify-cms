@@ -14,34 +14,34 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bulma": "^0.8.0",
-    "gatsby": "^2.17.10",
-    "gatsby-image": "^2.2.30",
+    "bulma": "^0.8.1",
+    "gatsby": "^2.20.12",
+    "gatsby-image": "^2.3.1",
     "gatsby-plugin-manifest": "^2.3.3",
-    "gatsby-plugin-netlify": "^2.1.23",
-    "gatsby-plugin-netlify-cms": "^4.1.26",
+    "gatsby-plugin-netlify": "^2.2.1",
+    "gatsby-plugin-netlify-cms": "^4.2.2",
     "gatsby-plugin-purgecss": "^4.0.1",
-    "gatsby-plugin-react-helmet": "^3.1.13",
-    "gatsby-plugin-sass": "^2.1.20",
-    "gatsby-plugin-sharp": "^2.2.36",
-    "gatsby-remark-copy-linked-files": "^2.1.28",
-    "gatsby-remark-images": "^3.1.29",
+    "gatsby-plugin-react-helmet": "^3.2.1",
+    "gatsby-plugin-sass": "^2.2.1",
+    "gatsby-plugin-sharp": "^2.5.3",
+    "gatsby-remark-copy-linked-files": "^2.2.1",
+    "gatsby-remark-images": "^3.2.1",
     "gatsby-remark-relative-images": "^0.2.3",
-    "gatsby-source-filesystem": "^2.1.35",
-    "gatsby-transformer-remark": "^2.6.32",
-    "gatsby-transformer-sharp": "^2.3.2",
+    "gatsby-source-filesystem": "^2.2.2",
+    "gatsby-transformer-remark": "^2.7.1",
+    "gatsby-transformer-sharp": "^2.4.3",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms-app": "^2.9.6",
-    "node-sass": "^4.13.0",
+    "netlify-cms-app": "^2.12.3",
+    "node-sass": "^4.13.1",
     "parcel-bundler": "^1.12.4",
     "prop-types": "^15.6.0",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-helmet": "^5.2.0",
-    "uuid": "^3.3.3"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "prettier": "^1.15.3"
+    "prettier": "^1.19.1"
   }
 }
