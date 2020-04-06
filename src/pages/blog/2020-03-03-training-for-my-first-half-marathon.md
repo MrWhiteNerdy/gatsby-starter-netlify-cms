@@ -23,7 +23,6 @@ tags:
   - breath-control
   - consistency
   - mind over matter
-  - ''
 ---
 My nutrition teacher told us once that the best way to figure out what we might be lacking in our diets is simply to write down what we eat and see if there are any missing components or repetitious patterns. I believe the same could be said for a workout routine. If you are anything like me it's important to keep workouts interesting and fun. I used to hate the idea of getting on a treadmill 3(+) times a week to get in my daily dose of 30(+) minutes a day...
 
