@@ -19,7 +19,6 @@ tags:
   - daydream
   - favorites
   - channel
-  - ''
 ---
 Currently these are my favorite songs in no specific order:
 
