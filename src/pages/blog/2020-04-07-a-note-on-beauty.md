@@ -30,6 +30,8 @@ Golden drops of sun shimmer on the metallic surfaces, catching everything on fir
 
 You sit there as the flames rise.
 
+You sit there as the heat begins to build and resurface after a passing cloud.
+
 The restless energy never releases you but you close your eyes and breathe for maybe the first time today. For a brief moment, you depart from yourself and your shoulders finally drop. Your fingers feel as though they're ringing as you allow your body to go limp in the heat of the day.
 
 Everything else can wait.
