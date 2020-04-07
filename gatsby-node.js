@@ -23,15 +23,30 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()));
+      result.errors.forEach((e) => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
     const posts = result.data.allMarkdownRemark.edges;
+    const postsPerPage = 5;
+    const numPages = Math.ceil(posts.length / postsPerPage);
 
-    posts.forEach(edge => {
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? '/blog' : `/blog/${i + 1}`,
+        component: path.resolve('./src/templates/blog-list.js'),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1,
+        },
+      });
+    });
+
+    posts.forEach((edge) => {
       const id = edge.node.id;
       createPage({
         path: edge.node.fields.slug,
@@ -40,14 +55,14 @@ exports.createPages = ({ actions, graphql }) => {
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
         context: {
-          id
-        }
+          id,
+        },
       });
     });
 
     let tags = [];
 
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
         tags = tags.concat(edge.node.frontmatter.tags);
       }
@@ -55,15 +70,15 @@ exports.createPages = ({ actions, graphql }) => {
 
     tags = _.uniq(tags);
 
-    tags.forEach(tag => {
+    tags.forEach((tag) => {
       const tagPath = `/tags/${_.kebabCase(tag)}/`;
 
       createPage({
         path: tagPath,
         component: path.resolve(`src/templates/tags.js`),
         context: {
-          tag
-        }
+          tag,
+        },
       });
     });
   });
@@ -78,7 +93,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value
+      value,
     });
   }
 };
