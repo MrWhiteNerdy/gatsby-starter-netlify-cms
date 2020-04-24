@@ -50,4 +50,4 @@ As always, feel free to comment with your thoughts in regard to anything mention
 
 Thanks for reading.
 
-Love, Rachel.
+With love, Rachel Alivia
