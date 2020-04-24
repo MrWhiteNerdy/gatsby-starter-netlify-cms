@@ -7,6 +7,14 @@ description: >-
   grateful to have the finances to afford her during these days while I'm stuck
   at home. She is a wonderful fur baby to comfort me, distract me, and love me.
   I highly recommend considering adoption if you can!
+featuredimage: /img/20200401_161820.jpg
+tags:
+  - kitten
+  - expenses
+  - recommendations
+  - catlover
+  - kittylove
+  - Peach
 ---
 Some of these purchases can be made from any of your regularly shopped stores such as Walmart, Target, Petco, Petsmart, etc.  look around in unexpected places such as Aldi's or other grocery stores that might surprise you! Not all pet related items need to be specifically labeled for a pet in order to function properly. A great example of this are food dishes. I have a kitten and she has no issues with tipping the bowls over so I bought a couple of microwave save plastic kid bowls from Target to use as her canned cat food dishes (she likes the food warm - what a princess! lol) They cost me about a quarter each and they work great! Who needs a bowl specifically stated for cats when they are virtually the same thing! (minus maybe a slippage ring around the bottom if necessary)
 
@@ -27,3 +35,9 @@ I learned this one the hard way. I bought both the one with and one without. I l
 This one is often debated. I personally feel that I react with hives and itchiness to my cat's fur when I try using a highly perfumed cat litter. They often smell quite intense and while this will cover up bad smells, a non-scented cat litter will most often do the job just fine as well. 
 
 4. Stella & Chewy cat food - personally recommended to me by my vet :)
+
+   That's all for now! Thank you as always for reading my blog post and I hope you visit again soon!
+
+With love, Rachel Alivia 
+
+![](/img/20200416_152231.jpg)
