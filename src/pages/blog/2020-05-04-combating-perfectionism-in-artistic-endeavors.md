@@ -1,11 +1,16 @@
 ---
 templateKey: blog-post
-title: 'Combating Perfectionism in Artistic Endeavors '
+title: A Word of Encouragement to Continue
 date: 2020-05-04T22:18:58.716Z
 description: >-
-  The quest for perfection can inhibit anyone from moving forward. Artists have
-  to be especially careful from critiquing themselves too harshly. Here I walk
-  through some of my current struggles and hopeful messages with this subject.
+  This message is dedicated to any artist, maker, or creator that finds themself
+  considering their deeper belonging or "deep-seated why" behind their
+  creations. I find this to be a meaningful self-guided reflection. However, I
+  believe it is equally important to let-loose, let go of the pressure of
+  finding purpose, and simply have fun with your talents, skills, and interests.
+  You do not need to over-explain yourself or your passion to anyone!
+  Essentially, so long as you love what you do, it will speak for itself and you
+  should continue!
 tags:
   - love
   - energy
