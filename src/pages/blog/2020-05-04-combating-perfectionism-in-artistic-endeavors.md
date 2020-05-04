@@ -14,6 +14,7 @@ description: >-
 tags:
   - love
   - energy
+  - passion
   - devotion
   - time
   - small business
@@ -37,9 +38,8 @@ This is something I have been giving a lot of thought lately. My business is not
 
 Well, two solutions come to mind when I consider this.
 
-1. I can create a new time schedule that better suits me and my life (which will allow for more time to focus on outside activities such as studying for school and spending quality time with family/friends). This would include setting a stricter bedtime schedule, allowing for more time to implement self-care and exercise, as well as defining what I need to have in my environment in order to feel motivated to create (e.g. sunlight,  background music, video to keep my company, or complete quiet).
-
-2. Alternatively, I find an angle in this business that somehow connects my hobby with a deeper purpose. This may mean that over time, my business product or mission changes in some way. Right off the bat, I'm imagining an example of this may be something as simple as becoming a mentor to those who would like to learn to create polymer clay creations. This would fulfill a deeper purpose in me because I would be able to connect with others in an expression that feels meaningful to me in a more intimate setting.
+1. I can create a new time schedule that better suits me and my life (which will allow for more time to focus on outside activities such as studying for school and spending quality time with family/friends). This would include setting a stricter bedtime schedule, allowing for more time to implement self-care and exercise, as well as defining what I need to have in my environment in order to feel motivated to create (e.g. sunlight,  background music, video to keep me company, or complete quiet).
+2. Alternatively, I find an angle in this business that somehow connects my hobby with a deeper purpose. This may mean that over time, my business product or mission changes in some way. Right off the bat, I'm imagining an example of this may be something as simple as becoming a mentor to those who would like to learn to create polymer clay creations. This would fulfill a deeper purpose in me because I would be able to connect with others in an expression that feels meaningful to me in a more intimate setting like one-on-one teaching/coaching.
 
 These considerations are important. However, it dawned on me that so long as my interest in polymer clay continues to thrive it can grow and expand in an endless number of ways and I shouldn't concern myself too deeply in the beginning of my business with the fussiness of finding a deep-seated why.
 
@@ -57,7 +57,7 @@ This is all starting to sound very poetic! And I believe creating is a form of p
 
 I've heard before that the position of being an artist is unique because one cannot call themselves an artist. You must wait for *others* to call you an artist in order to be *deserving* of this label. I disagree.
 
-I believe that you may call yourself an artist if that is truly what you want to be just in the same way you might call yourself a writer or a singer or a dancer if these are your passions. You do not need to over explain your passion to anybody because your "product", your mission, your goals, your values will speak for themselves. 
+I believe that you may call yourself an artist if that is truly what you want to be just in the same way you might call yourself a writer or a singer or a dancer if these are your passions. You do not need to over-explain your passion to anybody because your product, your mission, your goals, and your values will speak for themselves. 
 
 To sum up, I am proud of myself for sticking with my artistic goals. I am proud of anyone who does the same in their own fields. I hope you give yourself some love today in whatever purpose or goal you find yourself. Please comment or share this with anyone who may need some love today. I hope you all are doing well. 
 
