@@ -6,6 +6,16 @@ description: >-
   These are my favorite tools when making my polymer clay charms. I'll break it
   down by each one and give some of my favorite necessities vs. ones you
   substitute with household items.
+tags:
+  - polymer clay
+  - polymer clay tools
+  - recommended tools
+  - crafting
+  - beginner to polymer clay
+  - organization
+  - polymer clay artist
+  - Fimo
+  - Premo
 ---
 ![](/img/watermark_2020-05-04-13-37-33.jpg)
 
