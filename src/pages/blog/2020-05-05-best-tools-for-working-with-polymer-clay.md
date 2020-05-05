@@ -25,9 +25,7 @@ Before cutting the pieces I also froze the cake to help it maintain its shape.
 
 ![](/img/watermark_2020-05-04-13-33-33.jpg)
 
-Here is another example I've created using my fingers (you might be surprised how often your own finger tips feel like the best tools!), liquid clay, chalk pastel powders, a fan brush, a baby toothbrush for texture, and eye pins! Once again, I added UV resin to only the areas I felt needed to be shinny (in this case, the melted butter.)
-
-
+Here is another example I've created using my fingers (you might be surprised how often your own finger tips feel like the best tools!), liquid clay, chalk pastel powders, a fan brush, a baby toothbrush for texture, and eye pins! Once again, I added UV resin to only the areas I felt needed to be shinny (in this case, the melted butter, eggs, and bacon.)
 
 Now that you've seen a couple of my charms I'll dive into the details of the tools I love to use and highly recommend. 
 
@@ -36,11 +34,8 @@ Now that you've seen a couple of my charms I'll dive into the details of the too
 I realize this looks like a lot. To someone new to polymer clay I would recommend only paying attention to these handful of tools listed in the picture: 
 
 1. needle tool (or toothpick)
-
 2. clay roller (or a cup or smooth rounded pencil/other utensil)
-
 3. Premo translucent (yes, I would put this at the top of my necessities list and I'll explain further down)
-
 4. x-acto knife. 
 
 The reason I would suggest Premo translucent clay in my necessities list (even for beginners) is because translucent clay (of any brand) will help give your clay a more satisfying appearance. Of course, this is personal preference. I really enjoy the effect it gives (both in creating a more realistic appearance and in helping to create muted or pastel shades) and it helps make colors last a lot longer!
@@ -51,13 +46,25 @@ However, firm clay serves a purpose. There is a reason professional polymer clay
 
 I really love having Fimo soft which is still a bit harder to condition especially when paired with Premo translucent because it gives me the range of softness I need in order to work on small intricate details without losing the texture or surface that I work so hard to achieve. When I want something to be both highly translucent and firm, I just stick my work in the freezer for a bit and that also helps firm up the clay!
 
-Another couple of reasons I love Fimo is because the range of colors seem to be unmatched by any other bake-able polymer clay and this may be partly because it was the first bake-able polymer clay in 1954. <https://www.staedtler.com/dk/en/discover/what-is-fimo-actually-everything-you-need-to-know-about-the-popular-colourful-modelling-clay-from/>
+In case I made that confusing, in the range of softness, Premo is *softer* than Fimo. If you are a beginner to polymer clay, Fimo may feel a bit discouraging to you. But when Premo and Fimo are combined you have a workable, wonderful clay to create tiny details without having clay that is *too soft.*
+
+Fimo kids is much softer than Fimo soft (maybe a tad, ironically). People complain about Fimo soft hurting their hands from how difficult it can be to simply start their project by conditioning it. A lot of artists understandable don't want to waste their time only conditioning their clay waiting for it to be workable for their projects (it can take several minutes for it to become soft in your hands). This is one big reason I highly recommend pairing Premo translucent with Fimo's range of colors.
+
+I love Fimo's range of color! Their large variety may be partly because it was the first bake-able polymer clay in 1954. <https://www.staedtler.com/dk/en/discover/what-is-fimo-actually-everything-you-need-to-know-about-the-popular-colourful-modelling-clay-from/>
 
 Back to the tools!
 
 I'd like to say how important it is to keep your work surface clean. You don't need any fancy cleaning equipment or tools to do this. Simply using paper towels, cotton swabs/q-tips, hand-sanitizer (which helps condition your hands as well as clean your work surface), and rubbing alcohol work perfectly!
 
 As for what to use *for your work surface -* I recommend buying a sheet of glass! Or simply take a sheet of glass out of an old picture frame you're not using anymore! If you enjoy making smaller works of art like me, a picture frame size should suit you just fine!
+
+To create stoppers on the sheet of glass to keep the surface from sliding around and potentially harming yourself, buy some rubber stoppers (preferably sticky and flat). I use what is called poster dots which are double sided sticky rubber dots you can find in office supplies. 
+
+The link below should take you to the rubber adhesive stickers I purchased.
+
+<https://www.target.com/p/scotch-expressions-scrapbook-embellishments-18-ct/-/A-15068099?ref=tgt_adv_XS000000&AFID=google_pla_df&fndsrc=tgtao&CPNG=PLA_Electronics%2BShopping_Brand&adgroup=SC_Electronics&LID=700000001170770pgs&network=g&device=c&location=9023249&ds_rl=1246978&ds_rl=1248099&gclid=Cj0KCQjwncT1BRDhARIsAOQF9LkWtckwQyh9sV4DkKNr53QCO-tpMaG7oVynU9BFPkYbZrUx55tif8EaAqU_EALw_wcB&gclsrc=aw.ds>
+
+
 
 I also recommend trying ceramic tiles. These are wonderful for projects that are super tiny, detailed, or difficult to transfer to a baking sheet. The reason is you can safely bake the clay directly onto the tile. So it's a work surface and a baking surface in one!
 
