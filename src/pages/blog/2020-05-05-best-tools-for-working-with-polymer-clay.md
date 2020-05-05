@@ -4,8 +4,8 @@ title: Best Tools for Working with Polymer Clay
 date: 2020-05-05T15:21:09.803Z
 description: >-
   These are my favorite tools when making my polymer clay charms. I'll break it
-  down by each one and give some of my favorite necessities vs. ones you
-  substitute with household items.
+  down by each one and give some of my favorite necessities vs. ones you can
+  easily substitute with household items.
 tags:
   - polymer clay
   - polymer clay tools
