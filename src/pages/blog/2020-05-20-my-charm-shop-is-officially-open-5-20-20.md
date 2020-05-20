@@ -17,7 +17,7 @@ tags:
 
 ![](/img/img_20200511_155941_223.jpg)
 
-<http://charmsbyrachelalivia.storenvy.com/>
+You can visit my site and purchase my charms by clicking this link: <http://charmsbyrachelalivia.storenvy.com/>
 
 I'm so happy to share this with everyone because it feels like a great triumph to complete this goal! I started with a passion to create these adorable miniatures and charms. And the rest took some patience but now I get to see my charms in a live shop and that in itself is exciting. :) 
 
