@@ -14,7 +14,7 @@ export const BlogPostTemplate = ({
   title,
   featuredimage,
   helmet,
-  tags
+  tags,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -31,17 +31,17 @@ export const BlogPostTemplate = ({
               <PreviewCompatibleImage
                 imageInfo={{
                   image: featuredimage,
-                  alt: `featured image thumbnail for post ${title}`
+                  alt: `featured image thumbnail for post ${title}`,
                 }}
               />
             )}
-            <p>{description}</p>
+            <p className="is-size-5">{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: '4rem' }}>
                 <h4>Tags</h4>
                 <ul className="taglist">
-                  {tags.map(tag => (
+                  {tags.map((tag) => (
                     <li key={tag + `tag`}>
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </li>
@@ -63,7 +63,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   featuredimage: PropTypes.object,
   helmet: PropTypes.object,
-  tags: PropTypes.array
+  tags: PropTypes.array,
 };
 
 const BlogPost = ({ data }) => {
@@ -94,8 +94,8 @@ const BlogPost = ({ data }) => {
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object
-  })
+    markdownRemark: PropTypes.object,
+  }),
 };
 
 export default BlogPost;

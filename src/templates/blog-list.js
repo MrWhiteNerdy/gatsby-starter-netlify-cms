@@ -26,12 +26,17 @@ class BlogList extends React.Component {
               <div className="columns is-multiline">
                 {posts &&
                   posts.map(({ node: post }) => (
-                    <div className="is-parent column is-12" key={post.id}>
-                      <article className="blog-list-item tile is-child box notification">
+                    <div
+                      className="is-parent column is-6 is-flex"
+                      key={post.id}>
+                      <article
+                        className="blog-list-item tile is-child is-flex box notification"
+                        style={{ flexDirection: 'column' }}>
                         <header>
                           <p className="post-meta">
                             <Link
-                              className="title has-text-primary is-size-4"
+                              className="title is-size-4"
+                              style={{ textDecoration: 'none' }}
                               to={post.fields.slug}>
                               {post.frontmatter.title}
                             </Link>
@@ -42,14 +47,15 @@ class BlogList extends React.Component {
                           </p>
                         </header>
                         <br />
-                        <p>
+                        <p style={{ flexGrow: 1 }}>
                           {post.frontmatter.description}
-                          <br />
-                          <br />
-                          <Link className="button" to={post.fields.slug}>
-                            Keep Reading →
-                          </Link>
                         </p>
+                        <Link
+                          className="button"
+                          style={{ alignSelf: 'flex-start' }}
+                          to={post.fields.slug}>
+                          Keep Reading →
+                        </Link>
                       </article>
                     </div>
                   ))}
