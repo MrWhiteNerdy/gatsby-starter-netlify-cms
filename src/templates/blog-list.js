@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
+import BlogRoll from '../components/BlogRoll';
 
 class BlogList extends React.Component {
   render() {
@@ -13,69 +14,43 @@ class BlogList extends React.Component {
       currentPage - 1 === 1 ? '/blog' : '/blog/' + (currentPage - 1).toString();
     const nextPage = '/blog/' + (currentPage + 1).toString();
 
+    const nextPrevButtons = (
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          marginBottom: '0.75rem',
+        }}>
+        <div>
+          {!isFirst && (
+            <Link to={prevPage} className="button" rel="prev">
+              ← Previous Page
+            </Link>
+          )}
+        </div>
+        <div>
+          {!isLast && (
+            <Link to={nextPage} className="button" rel="next">
+              Next Page →
+            </Link>
+          )}
+        </div>
+      </div>
+    );
+
     return (
       <Layout>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="is-size-3">
+              <h1 className="is-size-1">
                 {isFirst
                   ? 'Latest Blog Posts'
                   : `Blog Posts - Page ${currentPage}`}
               </h1>
-              <div className="columns is-multiline">
-                {posts &&
-                  posts.map(({ node: post }) => (
-                    <div
-                      className="is-parent column is-6 is-flex"
-                      key={post.id}>
-                      <article
-                        className="blog-list-item tile is-child is-flex box notification"
-                        style={{ flexDirection: 'column' }}>
-                        <header>
-                          <p className="post-meta">
-                            <Link
-                              className="title is-size-4"
-                              style={{ textDecoration: 'none' }}
-                              to={post.fields.slug}>
-                              {post.frontmatter.title}
-                            </Link>
-                            <span> &bull; </span>
-                            <span className="subtitle is-size-5">
-                              {post.frontmatter.date}
-                            </span>
-                          </p>
-                        </header>
-                        <br />
-                        <p style={{ flexGrow: 1 }}>
-                          {post.frontmatter.description}
-                        </p>
-                        <Link
-                          className="button"
-                          style={{ alignSelf: 'flex-start' }}
-                          to={post.fields.slug}>
-                          Keep Reading →
-                        </Link>
-                      </article>
-                    </div>
-                  ))}
-              </div>
-              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                <div>
-                  {!isFirst && (
-                    <Link to={prevPage} className="button" rel="prev">
-                      ← Previous Page
-                    </Link>
-                  )}
-                </div>
-                <div>
-                  {!isLast && (
-                    <Link to={nextPage} className="button" rel="next">
-                      Next Page →
-                    </Link>
-                  )}
-                </div>
-              </div>
+              {nextPrevButtons}
+              <BlogRoll posts={posts} />
+              {nextPrevButtons}
             </div>
           </div>
         </section>

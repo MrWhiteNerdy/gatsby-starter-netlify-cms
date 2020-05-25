@@ -1,22 +1,24 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql, StaticQuery } from 'gatsby';
+import { Link } from 'gatsby';
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { posts } = this.props;
 
     return (
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article className="blog-list-item tile is-child box notification">
+            <div className="is-parent column is-6 is-flex" key={post.id}>
+              <article
+                className="blog-list-item tile is-child is-flex box notification"
+                style={{ flexDirection: 'column' }}>
                 <header>
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title is-size-4"
+                      style={{ textDecoration: 'none' }}
                       to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
@@ -27,14 +29,14 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 <br />
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
+                <p style={{ flexGrow: 1 }}>{post.frontmatter.description}</p>
+                <br />
+                <Link
+                  className="button"
+                  style={{ alignSelf: 'flex-start' }}
+                  to={post.fields.slug}>
+                  Keep Reading →
+                </Link>
               </article>
             </div>
           ))}
@@ -44,38 +46,7 @@ class BlogRoll extends React.Component {
 }
 
 BlogRoll.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+  posts: PropTypes.array.isRequired,
 };
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query BlogRollQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                templateKey
-                date(formatString: "MMMM Do, YYYY")
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
-  />
-);
+export default BlogRoll;

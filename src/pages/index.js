@@ -1,44 +1,37 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
+import BlogRoll from '../components/BlogRoll';
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
+    const readMoreButton = (
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'flex-end',
+          marginBottom: '0.75rem',
+        }}>
+        <Link to="/blog/2" className="button">
+          Read More →
+        </Link>
+      </div>
+    );
+
     return (
       <Layout>
         <section className="section">
           <div className="container">
             <div className="content">
-              <p className="is-size-1">Blog</p>
+              <h1 className="is-size-1">Latest Blog Posts</h1>
+              {readMoreButton}
+              <BlogRoll posts={posts} />
+              {readMoreButton}
             </div>
-            {posts.map(({ node: post }) => (
-              <div
-                className="content"
-                style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
-                key={post.id}>
-                <div>
-                  <Link to={post.fields.slug}>
-                    <p className="has-text-dark is-inline is-size-6">
-                      {post.frontmatter.title}
-                    </p>
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </div>
-                <p>
-                  {post.frontmatter.description}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </div>
-            ))}
           </div>
         </section>
       </Layout>
@@ -49,16 +42,17 @@ export default class IndexPage extends React.Component {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query indexQuery {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+      limit: 6
     ) {
       edges {
         node {
