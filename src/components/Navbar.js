@@ -65,7 +65,15 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
             </div>
-            <div className="navbar-end has-text-centered" />
+            <div className="navbar-end has-text-centered">
+              <a
+                href="http://charmsbyrachelalivia.storenvy.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="navbar-item is-size-5 has-background-warning">
+                Shop
+              </a>
+            </div>
           </div>
         </div>
       </nav>
