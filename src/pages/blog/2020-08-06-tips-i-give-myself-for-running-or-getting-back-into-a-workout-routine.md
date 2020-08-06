@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Getting Back into a Workout Routine
+title: Getting Back into a Workout Routine After a Slump
 date: 2020-08-06T05:00:00.000Z
 description: >-
   Did you experience a slum in your workout routine like I did when COVID orders
