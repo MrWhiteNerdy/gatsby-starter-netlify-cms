@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Tips I Give Myself for Running or Getting Back into a Workout Routine
-date: 2020-08-06T16:12:50.407Z
+title: Getting Back into a Workout Routine
+date: 2020-08-06T05:00:00.000Z
 description: >-
   Did you experience a slum in your workout routine like I did when COVID orders
   kept us inside? I think I stopped running for a solid 2, maybe 2.5 months.
