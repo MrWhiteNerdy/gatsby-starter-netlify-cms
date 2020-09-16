@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Getting Back into a Workout Routine After a Slump
 date: 2020-08-06T05:00:00.000Z
 description: >-
-  Did you experience a slum in your workout routine like I did when COVID orders
-  kept us inside? I think I stopped running for a solid 2, maybe 2.5 months.
+  Did you experience a slump in your workout routine like I did when COVID began
+  keeping us inside? I think I stopped running for a solid 2, maybe 2.5 months.
   Before we were kept inside I would consistently jog every single day, some
   days for as long as 1 hour. Let's just say my body did not appreciate the
   neglect! Here are some things I've taught myself to slowly change my mindset
